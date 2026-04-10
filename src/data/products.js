@@ -178,9 +178,9 @@ export const products = [
     price: 39.99,
     originalPrice: 59.99,
     category: 'electronics',
-    image: 'https://images.unsplash.com/photo-1586816879360-004f5b0c51e3?w=600&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=600&h=600&fit=crop',
     images: [
-      'https://images.unsplash.com/photo-1586816879360-004f5b0c51e3?w=600&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=600&h=600&fit=crop',
     ],
     description: 'Fast wireless charging pad compatible with all Qi-enabled devices. Sleek aluminum design.',
     rating: 4.3,
