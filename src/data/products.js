@@ -81,9 +81,9 @@ export const products = [
     price: 64.99,
     originalPrice: null,
     category: 'home',
-    image: 'https://images.unsplash.com/photo-1507473885765-e6ed057ab3fe?w=600&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop',
     images: [
-      'https://images.unsplash.com/photo-1507473885765-e6ed057ab3fe?w=600&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop',
     ],
     description: 'Handcrafted ceramic table lamp with linen shade. Adds warmth to any room.',
     rating: 4.3,
@@ -194,9 +194,9 @@ export const products = [
     price: 29.99,
     originalPrice: null,
     category: 'home',
-    image: 'https://images.unsplash.com/photo-1602607079820-4b5e4e2c04c3?w=600&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1603006905003-be475563bc59?w=600&h=600&fit=crop',
     images: [
-      'https://images.unsplash.com/photo-1602607079820-4b5e4e2c04c3?w=600&h=600&fit=crop',
+      'https://images.unsplash.com/photo-1603006905003-be475563bc59?w=600&h=600&fit=crop',
     ],
     description: 'Set of 3 hand-poured soy candles in calming scents: lavender, vanilla, and cedar.',
     rating: 4.7,
